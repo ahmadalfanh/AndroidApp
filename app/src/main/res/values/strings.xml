@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_Business">Business</string>
+    <string name="txt_Entertainment">Entertainment</string>
+    <string name="txt_General">General</string>
+    <string name="txt_Health">Health</string>
+    <string name="txt_Science">Science</string>
+    <string name="txt_Sports">Sports</string>
+    <string name="txt_Technology">Technology</string>
+
+</resources>
